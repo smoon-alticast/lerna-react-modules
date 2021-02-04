@@ -17,7 +17,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,6 @@
   },
   "bugs": {
     "url": "https://github.com/smoon-alticast/redux-auth/issues"
-  }
+  },
+  "gitHead": "e331a9444f3f10ff2bf8be111c1cd012a06b7f11"
 }

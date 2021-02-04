@@ -16,9 +16,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/smoon-alticast/redux-auth.git"
@@ -29,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/smoon-alticast/redux-auth/issues"
   },
-  "gitHead": "e331a9444f3f10ff2bf8be111c1cd012a06b7f11"
+  "gitHead": "5ad97f100be3721f4ccf2d0d1c943d1a6237aae6"
 }

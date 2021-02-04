@@ -1,5 +1,5 @@
 {
-  "name": "redux-auth",
+  "name": "@smoon-alticast/redux-auth",
   "version": "1.0.5",
   "description": "redux auth module",
   "keywords": [
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/smoon-alticast/redux-auth/issues"
   },
-  "gitHead": "e3dbbd4cb17f1aa0f2bb3360bcf816a1be33bc6d"
+  "gitHead": "5767ed8c64b270fccffb7a0af87572e10da41a81"
 }
